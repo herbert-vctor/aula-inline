@@ -13,7 +13,7 @@ Nesse repositório você ira encontrar uma das coisas que aprendi no módulo de 
 - git clone <https://github.com/herbert-vctor/aula-inline.git>
 
 ### 2- Acesse a pasta
-- cd aula-inline
+- cd 02-css-inline
 
 ### 3- Abra com o VS-code
 - code .
